@@ -3,6 +3,7 @@ import json
 import m3u8
 import subprocess
 import os
+import sys
 import configparser
 
 from InquirerPy import inquirer
@@ -45,9 +46,7 @@ def getPrefferedFolder():
             exit()
 
 
-def get_actual_path():
-    link = input("Enter url for downlaod:")
-
+def get_actual_path(link):
     if(len(link) == 68):
         ID = link[-23:] + "&full=ZnVsbA%3D%3D"
     else:
@@ -146,8 +145,15 @@ def convert(file_name, file_path):
 
 
 if __name__ == '__main__':
+    link = ""
+    if(len(sys.argv) == 2):
+        link = sys.argv[1]
+    else:
+        link = input("Enter url for downlaod:")
+
+    print("Ready to download: " + link)
+    path = get_actual_path(link)
     filePath = getPrefferedFolder()
-    print("Folder:", filePath)
-    path = get_actual_path()
     file = download_video(path, filePath)
     convert(file, filePath)
+    sys.exit()
