@@ -12,7 +12,7 @@
   ·
   <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues/new?assignees=&labels=enhancement&title=feat%3A+">Request a Feature</a>
   .
-  <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/discussions">Ask a Question</a>
+  <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/discussions">Chrome Extension</a>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ![followers](https://img.shields.io/github/followers/notnavindu?style=flat-square)
 
-![made with heart by @notnavindu](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-@notnavindu-ff1414.svg?style=flat-square)](https://github.com/notnavindu)
+[![made with heart by @notnavindu](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-@notnavindu-ff1414.svg?style=flat-square)](https://github.com/notnavindu)
 
 </div>
 
@@ -47,7 +47,7 @@
 <tr>
 <td>
 
-⚠️ This is still in beta
+⚠️ This is still under construction
 
 Basically, a python script to download eduscope videos (+ easy integration with [SLIIT Eduscope Mods Browser Extension](TODO:)). The download script is a modified version of [this script](https://github.com/dinushka114/eduscope-downloader)
 
