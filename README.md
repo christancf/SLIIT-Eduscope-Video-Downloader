@@ -53,7 +53,7 @@ Basically, a python script to download eduscope videos (+ easy integration with 
 
 **Demo**:
 
-TODO:
+![demo](docs/demo.gif)
 
 </td>
 </tr>
