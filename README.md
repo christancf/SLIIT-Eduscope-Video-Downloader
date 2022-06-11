@@ -33,7 +33,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation Guide (For normal people)](#installation-guide-for-normal-people)
   - [Installation Guide (For tech savvy people)](#installation-guide-for-tech-savvy-people)
-  - [If you run into issues...](#if-you-run-into-issues)
 - [Troubleshooting](#troubleshooting)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -118,8 +117,6 @@ Y3S1 - SEPQM = S:\SLIIT\Y3S1\SEPQM\Lecs
 4. Regenerate SHA256 nuclear launch codes
 5. Click "Download Video" on Eduscope Mods Chrome extension
 6. Well, that's it.
-
-### If you run into issues...
 
 ## Troubleshooting
 
