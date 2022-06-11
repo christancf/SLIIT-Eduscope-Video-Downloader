@@ -46,9 +46,6 @@
 <table>
 <tr>
 <td>
-
-⚠️ This is still under construction
-
 Basically, a python script to download eduscope videos (+ easy integration with [SLIIT Eduscope Mods Browser Extension](https://github.com/notnavindu/SLIIT-Eduscope-Mods)). The download script is a modified version of @dinushka114's [script](https://github.com/dinushka114/eduscope-downloader)
 
 **Demo**:
