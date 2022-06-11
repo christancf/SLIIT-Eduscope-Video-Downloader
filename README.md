@@ -69,7 +69,9 @@ Basically, a python script to download eduscope videos (+ easy integration with 
 
 ### Prerequisites
 
-- It is highly recommended to install the latest version of [SLIIT Eduscope Mods Browser Extension](https://github.com/notnavindu/SLIIT-Eduscope-Mods) before using this script. Chrome extension integration only works on windows. If you just need the downloader, check out the minimal script section. TODO:
+- You need the latest version of [SLIIT Eduscope Mods Browser Extension](https://github.com/notnavindu/SLIIT-Eduscope-Mods) before using this script.
+- If you already have Eduscope mods, it should update to version 3.0 automatically (give it some time. maybe restart chrome)
+- Chrome extension integration only works on windows. If you just need the downloader, check out the minimal script section. TODO:
 
 ### Installation Guide (For normal people)
 
