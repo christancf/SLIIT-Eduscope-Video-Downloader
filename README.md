@@ -47,7 +47,7 @@ Basically, a python script to download eduscope videos (+ easy integration with 
 
 **Demo**:
 
-![demo](docs/demo.gif)
+[![demo](docs/demo.gif)](docs/demo.gif)
 
 ### Built With
 
