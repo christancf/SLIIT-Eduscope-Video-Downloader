@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader">
-    <img src="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/src/logo.png" alt="Logo" width="125" height="125">
+    <img src="./docs/logo.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
 
 <div align="center">
-  Eduscope Video Downloader
+  Eduscope Video Downloader v0.1
   <br />
   <br />
   <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
@@ -34,6 +34,7 @@
   - [Installation Guide (For normal people)](#installation-guide-for-normal-people)
   - [Installation Guide (For tech savvy people)](#installation-guide-for-tech-savvy-people)
   - [If you run into issues...](#if-you-run-into-issues)
+- [Troubleshooting](#troubleshooting)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 
@@ -49,7 +50,7 @@
 
 ⚠️ This is still under construction
 
-Basically, a python script to download eduscope videos (+ easy integration with [SLIIT Eduscope Mods Browser Extension](TODO:)). The download script is a modified version of [this script](https://github.com/dinushka114/eduscope-downloader)
+Basically, a python script to download eduscope videos (+ easy integration with [SLIIT Eduscope Mods Browser Extension](https://github.com/notnavindu/SLIIT-Eduscope-Mods)). The download script is a modified version of @dinushka114's [script](https://github.com/dinushka114/eduscope-downloader)
 
 **Demo**:
 
@@ -69,11 +70,11 @@ TODO:
 
 ### Prerequisites
 
-- It is highly recommended to install the latest version of [SLIIT Eduscope Mods Browser Extension](TODO:) before using this script. Chrome extension integration only works on windows. If you just need the downloader, check out the minimal script section. TODO:
+- It is highly recommended to install the latest version of [SLIIT Eduscope Mods Browser Extension](https://github.com/notnavindu/SLIIT-Eduscope-Mods) before using this script. Chrome extension integration only works on windows. If you just need the downloader, check out the minimal script section. TODO:
 
 ### Installation Guide (For normal people)
 
-1. Download the latest release (It's a zip file)
+1. Download the latest release (It's a zip file) (LINK WILL BE ADDED SOON)
 2. Unzip/extract the file to where you want to install this software. _(Don't move the extracted files after you `install` it completely)_
 3. Double click the `install.bat` file.
 4. Open the `config.ini` file using the notepad.
@@ -111,7 +112,7 @@ Y3S1 - SEPQM = S:\SLIIT\Y3S1\SEPQM\Lecs
 
 ### Installation Guide (For tech savvy people)
 
-1. Download the zip
+1. Download the release zip (LINK WILL BE ADDED SOON)
 2. Run `install.bat`
 3. Configure using `config.ini`
 4. Regenerate SHA256 nuclear launch codes
@@ -120,7 +121,14 @@ Y3S1 - SEPQM = S:\SLIIT\Y3S1\SEPQM\Lecs
 
 ### If you run into issues...
 
-- Feel free to DM me on [IG](https://instagram.com/notnav.jpg) or create a new [issue](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues)
+## Troubleshooting
+
+If you keep getting redirecting here instead of downloading the video, try the following
+
+1. Restart your computer (Obviously)
+2. Update Google Chrome
+3. Open the windows registry editor and check if you have `com.navindu.eduscope` in `Computer\HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\`
+4. Reach out to me on [IG](https://instagram.com/notnav.jpg), [twitter](https://twitter.com/notnavindu) or create a new [issue](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues)
 
 ## Roadmap
 

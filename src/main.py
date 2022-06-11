@@ -144,13 +144,12 @@ def download_video(main_path, folderPath):
             i += 1
             percentage = i/file_number * 100
             # progress_bar.update(i/2)
+
+            print(f"="*int(percentage/2), end="")
             print("[", end="")
             print(f"{(str(percentage))[0:5]} %", end="")
             # print("\r\x1b[20C[",end = "")
             print("]", end="")
-            print(f"="*int(percentage/2), end="")
-            # print( f"\r\x1b[71C]",end = "")
-            print(f"\t {i} of {file_number}", end="")
             print("\r", end="")
 
     print("\n")
@@ -160,13 +159,15 @@ def download_video(main_path, folderPath):
 
 
 def convert(file_name, file_path):
-    print("Start converting........")
+    color_print(formatted_text=[("gold", "\nConverting to mp4... ")])
+
     infile = file_path + file_name+".ts"
     outfile = file_path + file_name + ".mp4"
     subprocess.run(['..\\ffmpeg', '-i', infile, outfile,
                    "-hide_banner", "-nostats", "-loglevel", "panic"])
     os.remove(file_path + file_name+".ts")
-    print("Sucessfully download and convert file........")
+
+    color_print(formatted_text=[("green", "\nDownloading Complete")])
 
 
 if __name__ == '__main__':
