@@ -3,5 +3,5 @@
   "description": "SLIIT Eduscope Video Downloader",
   "path": "app_host.bat",
   "type": "stdio",
-  "allowed_origins": ["chrome-extension://lkfnalahpjcfknnlnffdfplnbighkdoh/"]
+  "allowed_origins": ["chrome-extension://jbdlifpjhhdeebldjchepcfddcimdoof/"]
 }
