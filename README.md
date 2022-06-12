@@ -21,6 +21,7 @@
 ![followers](https://img.shields.io/github/followers/notnavindu?style=flat-square)
 
 [![made with heart by @notnavindu](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-@notnavindu-ff1414.svg?style=flat-square)](https://github.com/notnavindu)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotnavindu%2FSLIIT-Eduscope-Video-Downloader&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
