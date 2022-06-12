@@ -3,3 +3,4 @@ dist
 app/ffmpeg.exe
 app/cert.pem
 *.spec
+v0.1.rar
