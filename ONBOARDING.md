@@ -4,7 +4,7 @@ You're probably trying to download a video from eduscope. But first, you have to
 
 ## Quick start
 
-1. Download the zip file from here
+1. Download the zip file from [here](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.1/SLIIT-eduscope-video-downloader.rar)
 2. Extract it
 3. Open `install.bat`
 4. Open `config.ini` file with notepad
