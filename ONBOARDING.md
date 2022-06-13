@@ -11,4 +11,6 @@ You're probably trying to download a video from eduscope. But first, you have to
 5. Edit your module names and their video folders ([Examples](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader#installation-guide-for-normal-people))
 6. Open Eduscope mods chrome extension and click `Download Video`
 
-[Click here](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader) to read the full documentation. It's easy don't worry 😅
+That's it!
+
+[Click here](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader) to read the full documentation if you need. It's easy don't worry 😅
