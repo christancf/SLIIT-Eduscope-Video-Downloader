@@ -66,11 +66,11 @@ Basically, a python script to download eduscope videos (+ easy integration with 
 
 ### Installation Guide (For normal people)
 
-1. Download the latest release (It's a zip file) [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.1/SLIIT-eduscope-video-downloader.rar)
+1. Download the zip file. [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.1/SLIIT-eduscope-video-downloader.rar)
 2. Unzip/extract the file to where you want to install this software. _(Don't move the extracted files after you `install` it completely)_
-3. Double click the `install.bat` file.
+3. Open the `install.bat` file.
 4. Open the `config.ini` file using the notepad.
-5. Add the names of the courses you follow along with the path of the folder you want to download lectuers. _(You can get the file path from file explorer and paste it here)_
+5. Add the names of the modules/courses you follow along with the path of the folder you want to download lectuers. _(You can get the file path from file explorer and paste it here)_
 
 Copy the path like this:
 
