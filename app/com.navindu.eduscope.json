@@ -1,7 +1,7 @@
 {
   "name": "com.navindu.eduscope",
   "description": "SLIIT Eduscope Video Downloader",
-  "path": "app_host.bat",
+  "path": "hook.exe",
   "type": "stdio",
   "allowed_origins": ["chrome-extension://jbdlifpjhhdeebldjchepcfddcimdoof/"]
 }

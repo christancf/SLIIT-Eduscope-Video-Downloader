@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <h1>Eduscope Video Downloader v0.1</h1>
+  <h1>Eduscope Video Downloader v0.2</h1>
   <br />
   <br />
   <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
