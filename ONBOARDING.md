@@ -14,3 +14,7 @@ You're probably trying to download a video from eduscope. But first, you have to
 That's it!
 
 [Click here](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader) to read the full documentation if you need. It's easy don't worry 😅
+
+## Contact
+
+Head over to the [discussions](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/discussions) tab if you find bugs or if you have any feature requests :)
