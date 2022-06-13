@@ -66,7 +66,7 @@ Basically, a python script to download eduscope videos (+ easy integration with 
 
 ### Installation Guide (For normal people)
 
-1. Download the zip file. [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.1/SLIIT-eduscope-video-downloader.rar)
+1. Download the zip file. [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.2/SLIIT-Eduscope-downloader-v0.2.rar)
 2. Unzip/extract the file to where you want to install this software. _(Don't move the extracted files after you `install` it completely)_
 3. Open the `install.bat` file.
 4. Open the `config.ini` file using the notepad.
@@ -104,7 +104,7 @@ Y3S1 - SEPQM = S:\SLIIT\Y3S1\SEPQM\Lecs
 
 ### Installation Guide (For tech savvy people)
 
-1. Download the release zip. [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.1/SLIIT-eduscope-video-downloader.rar)
+1. Download the release zip. [Download link](https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/releases/download/v0.2/SLIIT-Eduscope-downloader-v0.2.rar)
 2. Run `install.bat`
 3. Configure using `config.ini`
 4. Regenerate SHA256 nuclear launch codes
