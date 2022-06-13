@@ -91,6 +91,8 @@ def get_actual_path(link):
 
 
 def download_video(main_path, folderPath):
+    requests.get(
+        "https://api.countapi.xyz/hit/com.navindu.eduscope/download-start")
     char = ''
 
     main_path_length = len(main_path)
@@ -155,10 +157,17 @@ def download_video(main_path, folderPath):
     print("\n")
     color_print(formatted_text=[
         ("green", "\nDownload Complete!.")])
+
+    requests.get(
+        "https://api.countapi.xyz/hit/com.navindu.eduscope/download-complete")
+
     return file_name
 
 
 def convert(file_name, file_path):
+    requests.get(
+        "https://api.countapi.xyz/hit/com.navindu.eduscope/convert-start")
+
     color_print(formatted_text=[("gold", "\nConverting to mp4... ")])
 
     infile = file_path + file_name+".ts"
@@ -169,8 +178,12 @@ def convert(file_name, file_path):
 
     color_print(formatted_text=[("green", "\nDownloading Complete")])
 
+    requests.get(
+        "https://api.countapi.xyz/hit/com.navindu.eduscope/convert-complete")
+
 
 if __name__ == '__main__':
+    requests.get("https://api.countapi.xyz/hit/com.navindu.eduscope/opens")
     link = ""
     if(len(sys.argv) == 2):
         link = sys.argv[1]
