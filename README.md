@@ -12,7 +12,7 @@
   ·
   <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/issues/new?assignees=&labels=enhancement&title=feat%3A+">Request a Feature</a>
   ·
-  <a href="https://github.com/notnavindu/SLIIT-Eduscope-Video-Downloader/discussions">Chrome Extension</a>
+  <a href="https://github.com/notnavindu/SLIIT-Eduscope-mods/">Chrome Extension</a>
 </div>
 
 <div align="center">
